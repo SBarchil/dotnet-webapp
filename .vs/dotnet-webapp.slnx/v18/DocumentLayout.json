@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Said\\Desktop\\Dotnet-project\\dotnet-webapp\\",
+  "WorkspaceRootPath": "C:\\Users\\Said\\source\\repos\\dotnet-webapp-01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C155B81-BC6C-2252-6D9F-74D5421B1E37}|services\\webapi\\src\\WebApi\\WebApi.csproj|c:\\users\\said\\desktop\\dotnet-project\\dotnet-webapp\\services\\webapi\\src\\webapi\\controllers\\typeclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C155B81-BC6C-2252-6D9F-74D5421B1E37}|services\\webapi\\src\\WebApi\\WebApi.csproj|solutionrelative:services\\webapi\\src\\webapi\\controllers\\typeclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26F140A8-70EA-9533-B313-AB35AD6EA30E}|services\\webapi\\src\\WebApi.Application\\WebApi.Application.csproj|c:\\users\\said\\source\\repos\\dotnet-webapp-01\\services\\webapi\\src\\webapi.application\\webapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{26F140A8-70EA-9533-B313-AB35AD6EA30E}|services\\webapi\\src\\WebApi.Application\\WebApi.Application.csproj|solutionrelative:services\\webapi\\src\\webapi.application\\webapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA5F5285-98CE-4465-90BC-CCBF8441D039}|WebDomain\\WebDomain.csproj|c:\\users\\said\\desktop\\dotnet-project\\dotnet-webapp\\webdomain\\typeclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA5F5285-98CE-4465-90BC-CCBF8441D039}|WebDomain\\WebDomain.csproj|solutionrelative:webdomain\\typeclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C155B81-BC6C-2252-6D9F-74D5421B1E37}|services\\webapi\\src\\WebApi\\WebApi.csproj|c:\\users\\said\\source\\repos\\dotnet-webapp-01\\services\\webapi\\src\\webapi\\controllers\\typeclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C155B81-BC6C-2252-6D9F-74D5421B1E37}|services\\webapi\\src\\WebApi\\WebApi.csproj|solutionrelative:services\\webapi\\src\\webapi\\controllers\\typeclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +27,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TypeClientController.cs",
-              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\Dotnet-project\\dotnet-webapp\\services\\webapi\\src\\WebApi\\Controllers\\TypeClientController.cs",
-              "RelativeDocumentMoniker": "services\\webapi\\src\\WebApi\\Controllers\\TypeClientController.cs",
-              "ToolTip": "C:\\Users\\Said\\Desktop\\Dotnet-project\\dotnet-webapp\\services\\webapi\\src\\WebApi\\Controllers\\TypeClientController.cs",
-              "RelativeToolTip": "services\\webapi\\src\\WebApi\\Controllers\\TypeClientController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T02:49:26.825Z",
+              "Title": "WebApi.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Said\\source\\repos\\dotnet-webapp-01\\services\\webapi\\src\\WebApi.Application\\WebApi.Application.csproj",
+              "RelativeDocumentMoniker": "services\\webapi\\src\\WebApi.Application\\WebApi.Application.csproj",
+              "ToolTip": "C:\\Users\\Said\\source\\repos\\dotnet-webapp-01\\services\\webapi\\src\\WebApi.Application\\WebApi.Application.csproj",
+              "RelativeToolTip": "services\\webapi\\src\\WebApi.Application\\WebApi.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-26T04:13:39.005Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TypeClient.cs",
-              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\Dotnet-project\\dotnet-webapp\\WebDomain\\TypeClient.cs",
-              "RelativeDocumentMoniker": "WebDomain\\TypeClient.cs",
-              "ToolTip": "C:\\Users\\Said\\Desktop\\Dotnet-project\\dotnet-webapp\\WebDomain\\TypeClient.cs",
-              "RelativeToolTip": "WebDomain\\TypeClient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "TypeClientController.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\source\\repos\\dotnet-webapp-01\\services\\webapi\\src\\WebApi\\Controllers\\TypeClientController.cs",
+              "RelativeDocumentMoniker": "services\\webapi\\src\\WebApi\\Controllers\\TypeClientController.cs",
+              "ToolTip": "C:\\Users\\Said\\source\\repos\\dotnet-webapp-01\\services\\webapi\\src\\WebApi\\Controllers\\TypeClientController.cs",
+              "RelativeToolTip": "services\\webapi\\src\\WebApi\\Controllers\\TypeClientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T02:45:32.114Z"
+              "WhenOpened": "2026-02-26T03:59:53.937Z",
+              "EditorCaption": ""
             }
           ]
         }

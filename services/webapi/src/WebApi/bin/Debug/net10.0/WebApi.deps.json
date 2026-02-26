@@ -9,7 +9,9 @@
       "WebApi/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": "10.0.2",
-          "Scalar.AspNetCore": "2.12.41"
+          "Scalar.AspNetCore": "2.12.41",
+          "WebApi.Application": "1.0.0",
+          "WebApi.Infrastructure": "1.0.0"
         },
         "runtime": {
           "WebApi.dll": {}
@@ -41,6 +43,37 @@
             "fileVersion": "2.12.41.0"
           }
         }
+      },
+      "WebApi.Application/1.0.0": {
+        "dependencies": {
+          "WebApi.Domain": "1.0.0"
+        },
+        "runtime": {
+          "WebApi.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "WebApi.Domain/1.0.0": {
+        "runtime": {
+          "WebApi.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "WebApi.Infrastructure/1.0.0": {
+        "dependencies": {
+          "WebApi.Application": "1.0.0",
+          "WebApi.Domain": "1.0.0"
+        },
+        "runtime": {
+          "WebApi.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -70,6 +103,21 @@
       "sha512": "sha512-uO90maY4ayqLHq+LFPKgRxPBlI8GPYOLLv5VkPvenG75p7pQ8lUb3jpQWxe02GeKgivyxlxJ1tNsIlCpHg1S6w==",
       "path": "scalar.aspnetcore/2.12.41",
       "hashPath": "scalar.aspnetcore.2.12.41.nupkg.sha512"
+    },
+    "WebApi.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebApi.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebApi.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

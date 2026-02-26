@@ -1,5 +1,7 @@
 <Solution>
+  <Project Path="services/webapi/src/WebApi.Application/WebApi.Application.csproj" />
+  <Project Path="services/webapi/src/WebApi.Domain/WebApi.Domain.csproj" />
+  <Project Path="services/webapi/src/WebApi.Infrastructure/WebApi.Infrastructure.csproj" />
   <Project Path="services/webapi/src/WebApi/WebApi.csproj" />
   <Project Path="services/webapp/src/WebApp/WebApp.csproj" />
-  <Project Path="WebDomain/WebDomain.csproj" Id="ea5f5285-98ce-4465-90bc-ccbf8441d039" />
 </Solution>

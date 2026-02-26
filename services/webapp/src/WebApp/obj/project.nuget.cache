@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UDj/2IP0tKY=",
+  "dgSpecHash": "yOYKrgXMPps=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Said\\Desktop\\Dotnet-project\\dotnet-webapp\\services\\webapp\\src\\WebApp\\WebApp.csproj",
+  "projectFilePath": "C:\\Users\\Said\\source\\repos\\dotnet-webapp-01\\services\\webapp\\src\\WebApp\\WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Said\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
   ],
